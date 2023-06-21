@@ -9,6 +9,4 @@ location: "Edinburgh, Scotland"
 ---
 
 International Centre for Mathematical Sciences workshop on the individual and collective behaviour in biological and robotic systems.
-
-
-[More info](https://www.icms.org.uk/workshops/2022/individual-collective-behaviour-biological-and-robotic-systems)
+[More information](https://www.icms.org.uk/workshops/2022/individual-collective-behaviour-biological-and-robotic-systems)

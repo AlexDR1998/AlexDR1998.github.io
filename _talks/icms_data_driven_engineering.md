@@ -9,6 +9,4 @@ location: "Edinburgh, Scotland"
 ---
 
 International Centre for Mathematical Sciences workshop on the Mathematical Foundations of Data Driven Engineering.
-
-
-[More info](https://www.icms.org.uk/DataDrivenEngineering)
+[More information](https://www.icms.org.uk/DataDrivenEngineering)
