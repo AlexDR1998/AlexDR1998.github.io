@@ -12,3 +12,4 @@ author_profile: true
  
 # Music I like:
  * https://bandcamp.com/alexdr1998/wishlist
+ * https://open.spotify.com/user/alexander.richardson
