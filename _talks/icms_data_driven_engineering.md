@@ -1,7 +1,7 @@
 ---
 title: "ICMS Mathematical Foundations of Data Driven Engineering 2023"
 collection: talks
-type: "Conference proceedings talk"
+type: "Workshop"
 permalink: /conferences/icms_data_engineering_2023
 venue: "University of Edinburgh"
 date: 2023-05-09

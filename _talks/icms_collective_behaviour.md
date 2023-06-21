@@ -1,7 +1,7 @@
 ---
 title: "ICMS From Individual to Collective Behaviour in Biological and Robotic Systems"
 collection: talks
-type: "Conference proceedings talk"
+type: "Workshop"
 permalink: /conferences/icms_collective_behaviour_2022
 venue: "University of Edinburgh"
 date: 2022-06-27

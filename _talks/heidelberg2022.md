@@ -1,7 +1,7 @@
 ---
 title: "ECMBT Heidelberg 2022"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference"
 permalink: /conferences/heidelberg2022
 venue: "University of Heidelberg"
 date: 2022-09-19

@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Methods for the Study of Self-organization in the Biological Sciences, Vienna 2022"
 collection: talks
-type: "Conference proceedings talk"
+type: "School"
 permalink: /conferences/vienna_self_organised_2022
 venue: "University of Vienna"
 date: 2022-09-19
