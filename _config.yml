@@ -102,10 +102,10 @@ author:
   instagram        : "https://www.instagram.com/alexdr1998/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alex-richardson-91b5a3244/"
   orcid            : 
   pinterest        :
-  soundcloud       :
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bandcamp         : "https://witchofagnesi.bandcamp.com/album/temple-of-the-unspoken"
 
 # Reading Files
 include:
