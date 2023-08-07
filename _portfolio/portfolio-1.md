@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dynamic Neural Cellular Automata"
+excerpt: "Extending neural cellular automata to learn spatiotemporal dynamics<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Neural cellular automata are a class of models capable of learning local interactions that give a desired emergent behaviour. Originaly developed in the context of [growing images from single pixels](https://distill.pub/2020/growing-ca/), we extend this to learn dynamics from time series of images: [https://github.com/AlexDR1998/NCA](https://github.com/AlexDR1998/NCA).
