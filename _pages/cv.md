@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MPhys Computational Physics, University of Edinburgh 2016-2021
+* MPhys Computational Physics, 1st class, University of Edinburgh 2016-2021
 * Ph.D applied mathematics, University of Edinburgh, 2021 - ongoing
 
 Technical Skills
