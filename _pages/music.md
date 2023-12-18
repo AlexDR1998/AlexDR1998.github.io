@@ -8,7 +8,7 @@ author_profile: true
 # Music I make:
 
  * [https://malmey.bandcamp.com/album/amasia](https://malmey.bandcamp.com/album/amasia)
- * [https://witchofagnesi.bandcamp.com/album/temple-of-the-unspoken](https://witchofagnesi.bandcamp.com/album/temple-of-the-unspoken)
+ * [https://witchofagnesi.bandcamp.com/music](https://witchofagnesi.bandcamp.com/music)
  
 # Music I like:
  * [https://bandcamp.com/alexdr1998/wishlist](https://bandcamp.com/alexdr1998/wishlist)
