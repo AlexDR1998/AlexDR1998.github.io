@@ -23,8 +23,9 @@ Technical Skills
     * Image processing
     * GPU and MPI parallelisation
 * Software and Tools:
-    * Python (numpy, scipy, matplotlib, tensorflow, JAX, pandas)
+    * Python (JAX, PyTorch, numpy, scipy, matplotlib, tensorflow, pandas)
     * Bash
+    * Kubernetes
     * ImageJ
     * C, C++, MATLAB, Cuda
 * Mathematics:
@@ -44,6 +45,7 @@ Academic Experience
     * Attended a wide range of conferences (see Conferences page), sometimes presenting my work, which has led to ongoing collaborations.
     * Experience presenting technical work in a clear and understandable manner.
     * Experience working in a team and independently, balancing the time commitments of several concurrent projects.
+    * Cosupervised 2 Masters dissertations on the evolution of intelligence in biologically inspired systems.
 
 Work experience
 ======
