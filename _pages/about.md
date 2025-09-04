@@ -12,5 +12,11 @@ I am a PhD student on the MAC-MIGS CDT at the University of Edinburgh. My resear
 
 I am also an active musician, involved in various projects across different genres.
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
 
