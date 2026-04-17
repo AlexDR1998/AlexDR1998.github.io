@@ -3,6 +3,7 @@ title: "Dynamics, Data and Deep Learning Workshop"
 collection: talks
 type: "Conference"
 permalink: /conferences/deep_learning_bristol2024
+venue: "University of Bristol"
 date: 2024-04-25
 location: "Bristol, United Kingdom"
 ---
