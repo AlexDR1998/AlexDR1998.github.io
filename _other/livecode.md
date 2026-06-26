@@ -5,7 +5,7 @@ collection: other
 ---
 
 
-This page is a short reference list of various tools for making art on your computer.
+This page is a short reference list of various tools for making art (mostly music) on your computer.
 
 
 ## Visuals
@@ -43,15 +43,19 @@ SuperCollider is an audio synthesis langauge. Useable on it's own, although it i
 
 ### Sound as pure form
 
-Sound as pure form (sapf) is a functional audio programming langauge, good for writing very short programs that do a lot
+Sound as pure form (sapf) is a functional audio programming langauge, good for writing very short programs that do a lot.
 
  - Find it here: [https://github.com/lfnoise/sapf](https://github.com/lfnoise/sapf)
 
 ### Orca
-A really weird music sequencing language where code exists and interacts in a 2D grid
-- Use it here [https://hundredrabbits.github.io/Orca/](https://hundredrabbits.github.io/Orca/)
+A really weird music sequencing language where code exists and interacts in a 2D grid. 
+- Use it here: [https://hundredrabbits.github.io/Orca/](https://hundredrabbits.github.io/Orca/)
 
 
 ### CSound
-CSound is an early music and sound language. It is quite like the C language. Also interfaced with Tidal Cycles and Strudel
- - Find it here [https://csound.com/](https://csound.com/)
+CSound is an early music and sound language. It is quite like the C language. Also interfaced with Tidal Cycles and Strudel. Good for hardware instruments or synthesizers.
+ - Find it here: [https://csound.com/](https://csound.com/)
+
+### Faust
+Faust (Functional Audio Stream) is a functional programming DSP langauge, good for making sounds. Suited to programming hardware instruments.
+ - Find it here: [https://faust.grame.fr/](https://faust.grame.fr/)
